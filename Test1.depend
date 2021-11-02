@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1635857702 source:c:\users\nikitapc\proj_programming\test1\src\core.c
+	"core.h"
+
+1635857811 c:\users\nikitapc\proj_programming\test1\src\core.h
+	"core_types.h"
+
+1635857849 c:\users\nikitapc\proj_programming\test1\src\core_types.h
+
+1635857994 source:c:\users\nikitapc\proj_programming\test1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"src/core.h"
+
