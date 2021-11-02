@@ -4,8 +4,12 @@
 #include "src/core.h"
 #include "src/math/game_math.h"
 
-TState State
 
+<<<<<<< HEAD
+TState State;
+=======
+ TState State;
+>>>>>>> krl1
 int i = 0;
 int main()
 {

@@ -2,10 +2,8 @@
 #include <stdlib.h>
 
 #include "src/core.h"
-#include "src/math/game_math.h"
 
-TState State
-
+TState State;
 int i = 0;
 int main()
 {
@@ -18,15 +16,9 @@ int main()
         i++;
         system("cls");
 
-
         printf("[%d]Running!\n", i);
-        printf("%d\n", sum(35 , 2));
 
     }
     return 0;
-
-
-
-
 
 }

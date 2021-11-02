@@ -12,3 +12,23 @@
 	<stdlib.h>
 	"src/core.h"
 
+1635861026 source:c:\users\leksm\test1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"src/core.h"
+	"src/math/game_math.h"
+
+1635858676 c:\users\leksm\test1\src\core.h
+	"core_types.h"
+
+1635858676 c:\users\leksm\test1\src\core_types.h
+
+1635858676 source:c:\users\leksm\test1\src\core.c
+	"core.h"
+
+1635860745 source:c:\users\leksm\test1\src\math\game_math.c
+	"game_math.h"
+	<stdio.h>
+
+1635860752 c:\users\leksm\test1\src\math\game_math.h
+
