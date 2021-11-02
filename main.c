@@ -3,6 +3,7 @@
 
 #include "src/core.h"
 
+
 TState State;
 int i = 0;
 int main()
@@ -15,6 +16,7 @@ int main()
     {
         i++;
         system("cls");
+
 
         printf("[%d]Running!\n", i);
 

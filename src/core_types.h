@@ -6,9 +6,13 @@
 
 typedef struct
 {
+    int length;
+} TSnake;
+
+typedef struct
+{
     int isRunning;
 } TState;
-
 
 typedef struct
 {
