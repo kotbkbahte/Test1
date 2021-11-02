@@ -2,5 +2,4 @@
 *.exe
 bin/
 obj/
-*.layout
 *.cscope_file_list

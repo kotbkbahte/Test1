@@ -34,6 +34,11 @@
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="src/core.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/core.h" />
+		<Unit filename="src/core_types.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
