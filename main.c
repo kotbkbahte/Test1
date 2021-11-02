@@ -4,7 +4,7 @@
 #include "src/core.h"
 #include "src/math/game_math.h"
 
-TState State
+TState State;
 
 int i = 0;
 int main()
